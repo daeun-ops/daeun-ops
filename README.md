@@ -1,20 +1,20 @@
-# SophieLab 24/365 Infrastructure Demo 
+# SophieLab Infrastructure Demo 
 
-> 인프라를 코드로 완전히 재현하는 **소피 실험실**
+> 인프라를 코드로 재현하는 **소피 실험실**
 >  
-> “장애, 보안, 확장성, 복구 — 모두 코드 한 줄로 통제하는..00급 인프라”
+> “장애, 보안, 확장성, 복구 — 모두 코드로 통제하는.. 00급 인프라! 를 연습하는... 공간"
 
 ---
 
 
 ## 📈 Sophie Labs Focus!
-- IaC (Terraform) + GitOps (Argo CD) + Observability Stack 완전 자동화
+- IaC  + GitOps + Observability Stack 완전 자동화
 - SLO / SLI / Error Budget 기반 운영문화 시뮬레이션
 - FinOps / DR / Policy / Supply Chain Security 내장형 설계
 
 
 ---
-## ✅ 요즘 작업 완료
+## 요즘 작업 중! 
 | feat | repo | des |
 |------|------|------|
 |  Control Tower | [platform-argocd](https://github.com/2025-demo-01/platform-argocd) | 모든 서비스 배포를 총괄하는 App-of-Apps 구조의 GitOps Control Tower |
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚧 지금 진행 중~~~
+## To Do
 | feat | repo | des |
 |------|------|------|
 |  Matching Engine | [svc-matching-engine](https://github.com/2025-demo-01/svc-matching-engine) | Rust 기반 초저지연 매칭엔진, Kafka 소비 및 ClickHouse 연동 |
@@ -40,5 +40,5 @@
 
 ---
 
-## 🔗 다은 작업은 뭘까!
+## 🔗  다음 작업은...! demo2는?!
  [2025-demo-01](https://github.com/2025-demo-01)  
