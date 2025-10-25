@@ -3,6 +3,7 @@
 > IaC, GitOps, Observability, FinOps, Policy, Security까지 — 모두 “실험적으로” 통합하는 연구 공간입니다.
 > 
 > ![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-2025--demo--01-blue?style=flat-square)
+[![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-2025--demo--01-blue?style=flat-square)](https://github.com/2025-demo-01)
 
 
 
@@ -54,12 +55,6 @@
 
 
 
----
-
-### ✨ Motto ✨
-> “ 완벽한 소프트웨어도 없고, 정답이 없는게 소프트웨어다. 그래서 매력있다.  
->  그러나 모든 인프라는 결국 코드가 되어야 한다.  
-> 그리고 그 코드는 **Observability** 으로 검증되어야 한다.” — *Sophie*
 
 
 ---
@@ -70,13 +65,13 @@
 ###  Tech Stack
 
 <p align="center">
-
+---
   <!-- 🧱 IaC / GitOps -->
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-FD7E14?style=flat-square&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-
+---
   <!-- ☸️ Kubernetes / Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -85,7 +80,7 @@
   <img src="https://img.shields.io/badge/DevStack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/>
-
+---
   <!-- 🔍 Observability -->
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
@@ -94,29 +89,29 @@
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Whatap-1A73E8?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-
+---
 
   <!-- 🧠 LLM / AI -->
   <img src="https://img.shields.io/badge/Llama3-FFCC00?style=flat-square&logo=meta&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/GPT%204/4o/5-412991?style=flat-square&logo=openai&logoColor=white"/>
-
+---
   <!-- 💻 Languages / Frameworks -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
+---
   <!-- 📡 Messaging / DB -->
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
+---
   <!-- 🔐 Security / Policy -->
   <img src="https://img.shields.io/badge/OPA-4B0082?style=flat-square&logo=openpolicyagent&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kyverno-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOPS-2E7D32?style=flat-square&logo=gnupg&logoColor=white"/>
-
+---
   <!-- 🤝 Collaboration -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
@@ -126,3 +121,14 @@
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=disc
 
+
+
+
+---
+---
+### ✨ Motto ✨
+> “ 완벽한 소프트웨어도 없고, 정답이 없는게 소프트웨어다. 그래서 매력있다.  
+>  그러나 모든 인프라는 결국 코드가 되어야 한다.  
+> 그리고 그 코드는 **Observability** 으로 검증되어야 한다.” — *Sophie*
+
+---
