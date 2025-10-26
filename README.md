@@ -1,11 +1,10 @@
 ## 🌐 SophieLabs Infrastructure Demo🌐
 > 인프라를 코드로 재현하는 **소피 실험실 (SophieLabs)** 입니다.  
-> IaC, GitOps, Observability, FinOps, Policy, Security까지 — 모두 “실험적으로” 통합하는 연구 공간입니다.
+> IaC, GitOps, Observability, FinOps, Policy, Security까지 모두 **“실험적으로”** 통합하는 연구 공간입니다.
 >
-> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-2025--demo--01-red?style=flat-square)](https://github.com/2025-demo-01) <br>
-> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-datadog--llm--workshop-green?style=flat-square)](https://github.com/daeun-ops/datadog-llm-workshop)
-
-
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-Digital--Asset--Exchange--Infra-red?style=flat-square)](https://github.com/2025-demo-01) <br>
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-Datadog--LLM--Workshop-green?style=flat-square)](https://github.com/daeun-ops/datadog-llm-workshop) <br>
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-PromQL--Assistant--CLI-blue?style=flat-square)](https://github.com/daeun-ops/promql-assistant-cli)
 
 
 ---
