@@ -2,7 +2,9 @@
 > 인프라를 코드로 재현하는 **소피 실험실 (SophieLabs)** 입니다.  
 > IaC, GitOps, Observability, FinOps, Policy, Security까지 — 모두 “실험적으로” 통합하는 연구 공간입니다.
 >
-> [![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-2025--demo--01-blue?style=flat-square)](https://github.com/2025-demo-01)
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-2025--demo--01-red?style=flat-square)](https://github.com/2025-demo-01) <br>
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-datadog--llm--workshop-green?style=flat-square)](https://github.com/daeun-ops/datadog-llm-workshop)
+
 
 
 
