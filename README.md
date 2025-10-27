@@ -35,6 +35,7 @@
 | Title | Repository | Description |
 |:------|:------------|:-------------|
 | **MLOps Mini Project** | [robotics-mlops-demo](https://github.com/daeun-ops/robotics-mlops-demo) | AI Model 학습 → 배포까지 자동화된 MLOps Pipeline. <br>OKD 기반 K8s 환경으로 설계. 문서는 짧고, **리소스**로 이해를 돕습니다. |
+| **MLOps Hybird Project** | [hybrid-mlops-demo](https://github.com/daeun-ops/hybrid-mlops-demo) |  Cloud+On-premise로 Hybird MLOps Workflow를 구현하는 <br> kubernetes와 EKS를 활용한 프로젝트입니다.  |
 
 
 
