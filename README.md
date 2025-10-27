@@ -1,4 +1,4 @@
-## 🌐 SophieLabs Infrastructure Demo🌐
+##  SophieLabs Infrastructure Demo
 > 인프라를 코드로 재현하는 **소피 실험실 (SophieLabs)** 입니다.  
 > IaC, GitOps, Observability, FinOps, Policy, Security까지 모두 **“실험적으로”** 통합하는 연구 공간입니다.
 >
