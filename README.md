@@ -4,7 +4,7 @@
 >
 > [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-Digital--Asset--Exchange--Infra-red?style=flat-square)](https://github.com/2025-demo-01) <br>
 > [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-Datadog--LLM--Workshop-green?style=flat-square)](https://github.com/daeun-ops/datadog-llm-workshop) <br>
-> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-PromQL--Assistant--CLI-blue?style=flat-square)](https://github.com/daeun-ops/promql-assistant-cli)
+> [![Today Most Active](https://img.shields.io/badge/Today%20Most%20Active-Hybird--MLOps--Demo-blue?style=flat-square)](https://github.com/daeun-ops/hybrid-mlops-demo)
 
 
 ---
@@ -16,7 +16,18 @@
 
 ---
 
+
 ###  현재 작업 중 (Ongoing Projects)
+
+| Title | Repository | Description |
+|:------|:------------|:-------------|
+| **MLOps Mini Project** | [robotics-mlops-demo](https://github.com/daeun-ops/robotics-mlops-demo) | AI Model 학습 → 배포까지 자동화된 MLOps Pipeline. <br>OKD 기반 K8s 환경으로 설계. 문서는 짧고, **리소스**로 이해를 돕습니다. |
+| **MLOps Hybird Project** | [hybrid-mlops-demo](https://github.com/daeun-ops/hybrid-mlops-demo) |  Cloud+On-premise로 Hybird MLOps Workflow를 구현하는 <br> kubernetes와 EKS를 활용한 프로젝트입니다.  |
+
+
+---
+
+###  다음 집.중. 작업 (Next Focus)
 
 | Title | Link | Description |
 |:------|:------------|:-------------|
@@ -24,18 +35,6 @@
 | **PromQL Assistant CLI** <br>*(Text-to-Query using LLM)* | [promql-assistant-cli](https://github.com/daeun-ops/promql-assistant-cli) | 터미널에서 자연어를 PromQL로 변환 — 쿼리를 말로 바꿔준다면?? |
 | **hello-ebpf-demo** <br>*(eBPF: extended Berkeley Packet Filter)* | [hello-ebpf-demo](https://github.com/daeun-ops/hello-ebpf-demo) | 리눅스 커널 내부 이벤트를 추적하고 Go Loader를 통해 Kernel ↔ UserSpace 데이터를 교환하는 데모. |
 | **LLM Observability** <br>*(Datadog + OTel + Llama3 + Grafana)* | [datadog-llm-workshop](https://github.com/daeun-ops/datadog-llm-workshop) | AI가 “생각하는 과정”을 CCTV처럼 모니터링하는 Observability 실험. |
-
-
-
-
----
-
-###  다음 집.중. 작업 (Next Focus)
-
-| Title | Repository | Description |
-|:------|:------------|:-------------|
-| **MLOps Mini Project** | [robotics-mlops-demo](https://github.com/daeun-ops/robotics-mlops-demo) | AI Model 학습 → 배포까지 자동화된 MLOps Pipeline. <br>OKD 기반 K8s 환경으로 설계. 문서는 짧고, **리소스**로 이해를 돕습니다. |
-| **MLOps Hybird Project** | [hybrid-mlops-demo](https://github.com/daeun-ops/hybrid-mlops-demo) |  Cloud+On-premise로 Hybird MLOps Workflow를 구현하는 <br> kubernetes와 EKS를 활용한 프로젝트입니다.  |
 
 
 
