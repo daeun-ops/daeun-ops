@@ -70,8 +70,8 @@ I build...! reliable infra, observable systems, and engineers who can run them.
 
 ---
 
-<details open>
-<summary><b>🇺🇸 English</b></summary>
+<details close>
+<summary><b> About Me[Eng] </b></summary>
 
 ###  Who I am
 
@@ -156,8 +156,8 @@ A personal lab where I rebuild “serious” infra from scratch — as code.
 </details>
 
 ---
-<details>
-<summary><b>🇰🇷 한국어</b></summary>
+<details close>
+<summary><b> About Me[Kor] </b></summary>
 
 ###  나는 어떤 사람인가요?!
 
@@ -248,5 +248,5 @@ A personal lab where I rebuild “serious” infra from scratch — as code.
 | Kubernetes 실험실 | [kubernetes-playground](https://github.com/daeun-ops/kubernetes-playground) | 네임스페이스 전략, ArgoCD 동기화 패턴, 멀티클러스터 운영 방식 검증. |
 
 ---
-
+</details>
 
